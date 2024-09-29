@@ -1,0 +1,19 @@
+{
+  "login": "Login",
+  "email": "Email",
+  "password": "Password",
+  "rememberMe": "Remember Me",
+  "forgotPassword": "Forgot Password?",
+  "dontHaveAccount": "Don't have an account?",
+  "register": "Register",
+  "emailRequired": "Email is required",
+  "invalidEmail": "Invalid email address",
+  "passwordRequired": "Password is required",
+  "incorrectCredentials": "Incorrect email or password",
+  "loginFailed": "Login Failed",
+  "accountInfo": "Account Information",
+  "firstName": "First Name",
+  "lastName": "Last Name",
+  "logout": "LOGOUT",
+  "errorFetchingData": "Error fetching data"
+}

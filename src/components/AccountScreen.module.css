@@ -1,0 +1,38 @@
+.container {
+  min-height: 100vh;
+  min-width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url("../assets/background.png");
+  background-size: cover;
+  background-position: center;
+}
+
+.box {
+  width: 350px;
+  padding: 32px;
+  border-radius: 12px;
+  background-color: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(10px);
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.title {
+  margin-bottom: 24px !important;
+}
+
+.name {
+  margin-bottom: 24px !important;
+}
+
+.logoutButton {
+  background-color: white !important;
+  color: black !important;
+  font-weight: bold !important;
+}
+
+.logoutButton:hover {
+  background-color: #ccc !important;
+}

@@ -1,0 +1,19 @@
+{
+  "login": "Login",
+  "email": "E-Mail",
+  "password": "Passwort",
+  "rememberMe": "Angemeldet bleiben",
+  "forgotPassword": "Passwort vergessen?",
+  "dontHaveAccount": "Sie haben kein Konto?",
+  "register": "Registrieren",
+  "emailRequired": "E-Mail ist erforderlich",
+  "invalidEmail": "Ungültige E-Mail-Adresse",
+  "passwordRequired": "Passwort ist erforderlich",
+  "incorrectCredentials": "Falsche E-Mail oder Passwort",
+  "loginFailed": "Anmeldung fehlgeschlagen",
+  "accountInfo": "Kontoinformationen",
+  "firstName": "Vorname",
+  "lastName": "Nachname",
+  "logout": "Ausloggen",
+  "errorFetchingData": "Fehler beim Abrufen der Daten"
+}
