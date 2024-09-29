@@ -1,4 +1,4 @@
-# React Apollo GraphQL AApplication
+# React Apollo GraphQL Application
 
 This project is a React application integrated with a GraphQL API using Apollo Client.
 It demonstrates user authentication, account management, and supports multiple languages through internationalization.
