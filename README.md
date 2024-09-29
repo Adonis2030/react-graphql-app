@@ -50,33 +50,6 @@ cd yourproject
 
 `npm test`
 
-## Project Structure
-
-yourproject/
-├── src/
-│ ├── apollo/
-│ │ └── client.ts # Apollo Client setup
-│ ├── components/
-│ │ ├── AccountScreen.tsx # Account component
-│ │ ├── LoginScreen.tsx # Login component
-│ │ ├── LanguageSwitcher.tsx
-│ │ └── ...
-│ ├── context/
-│ │ └── AuthContext.tsx # Authentication context
-│ ├── i18n/
-│ │ ├── index.ts # i18n configuration
-│ │ └── locales/
-│ │ ├── en.json
-│ │ └── de.json
-│ ├── App.tsx # Main app component
-│ ├── index.tsx # Entry point
-│ └── ...
-├── public/
-│ └── index.html
-├── .env # Environment variables
-├── package.json
-└── README.md
-
 ## Key Components
 
 - AccountScreen.tsx: Displays user account information fetched from the GraphQL API.
