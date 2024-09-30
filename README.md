@@ -35,20 +35,20 @@ It includes:
 ### Installation and Setup
 
 1. Clone the Repository
-   `git clone https://github.com/yourusername/yourproject.git
-cd yourproject
-`
+   ```git clone https://github.com/Adonis2030/react-graphql-app.git
+cd react-graphql-app
+```
 
 2. Install Dependencies
-   `npm install`
+   ```npm install```
 
 3. Run the application
 
-`npm start`
+```npm start```
 
 ## Running the Test
 
-`npm test`
+```npm test```
 
 ## Key Components
 
